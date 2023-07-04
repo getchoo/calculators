@@ -1,0 +1,5 @@
+calculator
+*.hi
+*.o
+*.class
+*.exe
